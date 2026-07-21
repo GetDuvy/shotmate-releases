@@ -1,5 +1,5 @@
 {
-  "version": "v3.5.3",
+  "version": "3.5.3",
   "notes": "• Added Multi-Machine Device Limit Management\n• Moved Remaining License Time into Settings Card\n• Added Multi-field search & filters (Key, Name, Email, OS, Version)\n• Added In-App Auto-Updater with Release Notes Viewer",
   "pub_date": "2026-07-21T05:45:00Z",
   "platforms": {
