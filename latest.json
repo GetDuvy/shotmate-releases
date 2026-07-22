@@ -1,11 +1,11 @@
 {
-  "version": "3.12.63",
-  "notes": "✨ Detail Transaksi View Page with full metadata, creator share calculation (84.2%), and price breakdown.\n✨ Full-Screen Photo Lightbox Viewer with zoom cue and ESC key shortcut.\n✨ Global Top Navbar Live Search with live API query (/gs/v5/creations?q=...) and floating results dropdown.\n✨ Big Hero Upload Batch CTA Card on Dashboard.\n✨ Aura Glow background effects on Upload tab drop area.\n✨ Sequential fast batch sales ingestion.",
-  "pub_date": "2026-07-22T08:59:00Z",
+  "version": "3.12.68",
+  "notes": "Interactive Top Bar Version Badge Update Checker with real-time feedback tooltips.\n1-Click Free 7-Day Trial Claim Button with hardware-enforced 1-trial-per-machine protection.\nAura Glow Backgrounds and UI Styling on Login and License Activation pages.\nAuto-Updater Content Security Policy Fix for GitHub release domains.\nDevTools Production Security with disabled inspect shortcuts in production releases.",
+  "pub_date": "2026-07-22T10:37:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.12.63/ShotMate_3.12.63_x64-setup.exe"
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.12.68/ShotMate_3.12.68_x64-setup.exe"
     }
   }
 }
