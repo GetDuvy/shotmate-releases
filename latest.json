@@ -1,11 +1,11 @@
 {
-  "version": "3.12.69",
-  "notes": "Interactive Top Bar Version Badge Update Checker with real-time feedback tooltips.\n1-Click Free 7-Day Trial Claim Button with hardware-enforced 1-trial-per-machine protection.\nAura Glow Backgrounds and UI Styling on Login and License Activation pages.\nAuto-Updater Content Security Policy Fix for GitHub release domains.\nDevTools Production Security with disabled inspect shortcuts in production releases.",
-  "pub_date": "2026-07-22T11:03:00Z",
+  "version": "3.13.4",
+  "notes": "Native SIMD Image Downscaling Engine with fast_image_resize hardware vectorization.\nSingle-Pass 7x Fast Compression reducing image latency from ~3,500ms down to ~150-450ms.\nPre-signing API Request Batching doubling authorization throughput.\nRequest Deduplication & API Caching for creation details queries.\nLog Performance Profiler Tooling for stage latency benchmarking.",
+  "pub_date": "2026-07-23T03:49:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK01VRmVVN0RZamFyS29KMGdURG5Ec3BuSVRRVi9nZXJ0UnlzRDVvZ2ZKNFh5WmpuNThkRDMvZ0crM2JJVkQ1c1RkN05TemczMEQyWUVyZHpPdkRGQ1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjkyOTg2CWZpbGU6U2hvdE1hdGVfMy4xMi42OV94NjQtc2V0dXAuZXhlCms3cFlNNG5wRVR0TnJnSlE2TmNyV3hSdEhZTkNGdGVCcjNiMVN3dk4xOEswbysyYSt5MzVWOEVKdXZXZFNGTjNCSmhyMTZ0am9LM3dXYnVDYmN3SUFBPT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.12.69/ShotMate_3.12.69_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0s4eVIyVmNhSkZtT2V5M1dZc2FiKzdKT2dRUWRBWDJTYmN2aEtWelZzaERUSjJZblFoeDdWVkNoYUNzRDJMMExYNnc0dXdWNENsME14RjR4VlJ3VVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzUzMzcyCWZpbGU6U2hvdE1hdGVfMy4xMy40X3g2NC1zZXR1cC5leGUKOXN1akgxUmFZVHlVQlkxRStlVmRhaUt3S09pNzNwdlRiQWMvbU9tVW80UnBTVlhmNGpsNUxsYWxUc0p3cEo3dWFMdVhmaHQxRk1UWktiUXZmVWtqQWc9PQo=",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.4/ShotMate_3.13.4_x64-setup.exe"
     }
   }
 }
