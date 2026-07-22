@@ -1,11 +1,11 @@
 {
-  "version": "3.12.68",
+  "version": "3.12.69",
   "notes": "Interactive Top Bar Version Badge Update Checker with real-time feedback tooltips.\n1-Click Free 7-Day Trial Claim Button with hardware-enforced 1-trial-per-machine protection.\nAura Glow Backgrounds and UI Styling on Login and License Activation pages.\nAuto-Updater Content Security Policy Fix for GitHub release domains.\nDevTools Production Security with disabled inspect shortcuts in production releases.",
-  "pub_date": "2026-07-22T10:53:00Z",
+  "pub_date": "2026-07-22T11:03:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK05kMDJTZlZjeko4RnZ1cVRiT0NqK2dJK1dYVmF5aUl2ODc0NHFQcmVIKzlxNE1QVWdoSEk1cWE5OVh4ZjVRTmM5Z2l3eFBMdndzcTU1VDdJUGhPc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjkyNDI5CWZpbGU6U2hvdE1hdGVfMy4xMi42OF94NjQtc2V0dXAuZXhlCndvVnVPUlpOQytxRGhUQTBnRzludEZsYU9qTllPL2c4T1pwUGpEaklJTkRmZjJCc0tKYnhBNUY2bmp1UzlESytnMGc2UmtrRk5lSVFtYWxHMzZ3NkNnPT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.12.68/ShotMate_3.12.68_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK01VRmVVN0RZamFyS29KMGdURG5Ec3BuSVRRVi9nZXJ0UnlzRDVvZ2ZKNFh5WmpuNThkRDMvZ0crM2JJVkQ1c1RkN05TemczMEQyWUVyZHpPdkRGQ1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjkyOTg2CWZpbGU6U2hvdE1hdGVfMy4xMi42OV94NjQtc2V0dXAuZXhlCms3cFlNNG5wRVR0TnJnSlE2TmNyV3hSdEhZTkNGdGVCcjNiMVN3dk4xOEswbysyYSt5MzVWOEVKdXZXZFNGTjNCSmhyMTZ0am9LM3dXYnVDYmN3SUFBPT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.12.69/ShotMate_3.12.69_x64-setup.exe"
     }
   }
 }
