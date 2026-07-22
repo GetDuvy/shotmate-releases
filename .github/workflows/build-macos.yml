@@ -1,0 +1,36 @@
+name: Build macOS
+
+on:
+  workflow_dispatch:   # trigger manual dari tab Actions di GitHub
+  push:
+    branches:
+      - feature/dumb-ui-smart-core
+
+jobs:
+  build-macos:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: aarch64-apple-darwin,x86_64-apple-darwin
+
+      - name: Install frontend dependencies
+        run: npm install
+
+      - name: Build Tauri app (universal binary)
+        run: npm run tauri build -- --target universal-apple-darwin
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: shotmate-macos
+          path: src-tauri/target/universal-apple-darwin/release/bundle/dmg/*.dmg
