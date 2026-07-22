@@ -1,11 +1,11 @@
 {
-  "version": "3.5.9",
-  "notes": "• Added Fototree Rankings Leaderboard Tab to count & rank photo submissions per creator per event\n• Supported Sequential & Parallel fetch modes with Stop Fetch control\n• Added Top 3 podium cards, fill percentage bars, CSV export, and full English/Indonesian localization",
-  "pub_date": "2026-07-21T07:59:00Z",
+  "version": "3.12.63",
+  "notes": "✨ Detail Transaksi View Page with full metadata, creator share calculation (84.2%), and price breakdown.\n✨ Full-Screen Photo Lightbox Viewer with zoom cue and ESC key shortcut.\n✨ Global Top Navbar Live Search with live API query (/gs/v5/creations?q=...) and floating results dropdown.\n✨ Big Hero Upload Batch CTA Card on Dashboard.\n✨ Aura Glow background effects on Upload tab drop area.\n✨ Sequential fast batch sales ingestion.",
+  "pub_date": "2026-07-22T08:59:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.5.9/ShotMate_3.5.9_x64-setup.exe"
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.12.63/ShotMate_3.12.63_x64-setup.exe"
     }
   }
 }
