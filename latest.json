@@ -1,23 +1,11 @@
 {
-  "version": "3.13.16",
-  "notes": "macOS & Windows Cross-Platform Unified Release.\n- WebKit & Chromium UI & font alignment (Plus Jakarta Sans).\n- macOS Asset Protocol CSP thumbnail preview fix.\n- Adaptive Hardware Profiling & Smart Prefilling.",
-  "pub_date": "2026-07-24T11:59:00Z",
+  "version": "3.13.39",
+  "notes": "Design System & better-ui Polish Release.\n- UI System Compliance: Theme-adaptive CSS custom properties across all desktop tabs.\n- Tactile Micro-Interactions: Added active press scaling (active:scale-[0.96]) across buttons and cards.\n- Tabular Numbers & Typography: Formatted financial amounts, counts, dates, and percentages with font-mono tabular-nums.\n- CPU Threads display fix.",
+  "pub_date": "2026-07-24T14:18:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0F3b0o5UXYrYVVlMmtYQWRBeDJGYlJ4QzBZYlFRd1I2eFlqUlRRME9QSU94cGNCaVA1aHh1dEFieXM2aUVvWElveDBDZVdpempZU1ZyOFBqU2M1K1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODY3NjE4CWZpbGU6U2hvdE1hdGVfMy4xMy4xNl94NjQtc2V0dXAuZXhlCjJ2dXFUQ2NJaVhIdzZCb3lYdE5ibzBzdCtNT0l6ZG1wdy9YS0F1dTdqeTFhdUNtU3RWZ0YyWEt2dGdmNW5QT3Q2MmFLVnozOVhNdlZVODZZWXQybUN3PT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.16/ShotMate_3.13.16_x64-setup.exe"
-    },
-    "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK01pTkwvUGk1MlVZdG00b1RMRFdsQjNlL2oxQnRySk5kNVVobm1JUHRjdWNaeENMNHhzOWljZ2NrelQwL2JiaEtHaHhVRTR2MkxnNW0yM3lMK2VGb2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODY5MTY4CWZpbGU6U2hvdE1hdGVfMy4xMy4xNl91bml2ZXJzYWwuZG1nCndHd1MvSHNCSjNncElxdTYwbVVZeHNkaThhZ25NSEhTMWdaYk5jWmtKdEt6NHRZVnJzU2FmQitYM3kvVkdseXFNaEpsNnNZTit2KzV1VWdRSWlRMkJBPT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.16/ShotMate_3.13.16_universal.dmg"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK01pTkwvUGk1MlVZdG00b1RMRFdsQjNlL2oxQnRySk5kNVVobm1JUHRjdWNaeENMNHhzOWljZ2NrelQwL2JiaEtHaHhVRTR2MkxnNW0yM3lMK2VGb2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODY5MTY4CWZpbGU6U2hvdE1hdGVfMy4xMy4xNl91bml2ZXJzYWwuZG1nCndHd1MvSHNCSjNncElxdTYwbVVZeHNkaThhZ25NSEhTMWdaYk5jWmtKdEt6NHRZVnJzU2FmQitYM3kvVkdseXFNaEpsNnNZTit2KzV1VWdRSWlRMkJBPT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.16/ShotMate_3.13.16_universal.dmg"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK01pTkwvUGk1MlVZdG00b1RMRFdsQjNlL2oxQnRySk5kNVVobm1JUHRjdWNaeENMNHhzOWljZ2NrelQwL2JiaEtHaHhVRTR2MkxnNW0yM3lMK2VGb2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODY5MTY4CWZpbGU6U2hvdE1hdGVfMy4xMy4xNl91bml2ZXJzYWwuZG1nCndHd1MvSHNCSjNncElxdTYwbVVZeHNkaThhZ25NSEhTMWdaYk5jWmtKdEt6NHRZVnJzU2FmQitYM3kvVkdseXFNaEpsNnNZTit2KzV1VWdRSWlRMkJBPT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.16/ShotMate_3.13.16_universal.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0g0cHNFS2wyd2lmWWZzRzQ0M2Nmc0krSzBCRGF1NnRqTUpJZDFWamYreVlLVTBLL1hNV1hHa2NuWFZMWE95U0xkSzBZb1AwLzBkQkpPdFZxOTFVTmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTAyNjc1CWZpbGU6U2hvdE1hdGVfMy4xMy4zOV94NjQtc2V0dXAuZXhlCnNmN3FjOUZneWNBb0I1Vkp0NTBFT1JtckdiZDJFTXVuNXZPNU1JalVRZ2pIZXBER1JPZ1BoVjFxdmhZYS9zWVVmeDBCaHJOQmgycDhVSXRzZkNiU0R3PT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.39/ShotMate_3.13.39_x64-setup.exe"
     }
   }
 }
