@@ -1,11 +1,11 @@
 {
-  "version": "3.13.13",
-  "notes": "Adaptive Hardware Engine Optimization scaling dynamic concurrency for high-end CPU/GPU desktop hardware.\nSmart Form Prefilling dynamically auto-filling upload price, location, description, and FotoTree event tags.\nUpload Description Sync Fix ensuring descriptions are saved to Fotoyu platform.\nCross-Platform Storage Stability for Windows and macOS desktop environments.",
-  "pub_date": "2026-07-24T10:11:00Z",
+  "version": "3.13.14",
+  "notes": "WebKit & Chromium Compositing Alignment fixing hero upload button gradient on macOS WebKit so the vibrant blue-purple CTA renders uniformly on macOS and Windows.\nCross-Platform Form Controls normalizing select dropdown appearances and form inputs.",
+  "pub_date": "2026-07-24T10:42:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0Z0SDdOcTVDcnRrNTMwSloyU1ZmaFdhOWduWkdoSy9ycWJmZXYxZU9Pa1JyanRWYTAyUTdhSUFVNUJFRVNqVUdSekprL2NLZDIreVNxY05KMTN6clFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODYyNzEwCWZpbGU6U2hvdE1hdGVfMy4xMy4xM194NjQtc2V0dXAuZXhlCnpxODlxMHBHa2M3dEdheXg0RXhkSEp0dXdPWU5HVHNmV0lPVnYzc0lVYmlMQUNpcUZZSk9Ea3lXRldoMHF2QlllZ2I5dUNTY0p3UXp0cU9uTmRQbEFBPT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.13/ShotMate_3.13.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0UvRDFjVEVUOUNmSHpFb0ZHcWM4UCtWMzB4VU1tRkQ3L04xSDdmV21LSlc2NmdDblJic1VjTnBnWmZ2cGJDbmNVQThlTnUvZXE5OGppeU9GQzhkK3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODY0NTYyCWZpbGU6U2hvdE1hdGVfMy4xMy4xNF94NjQtc2V0dXAuZXhlCnp1SGRyN0kyZXBhNGdSZGZCb2pPblRHQURlNWloY1c5dUZiSkdGNnJyRC9uSHdTbGRLWFJWNnhhamFHb1lzUFF0dVFwbEw0ZTFGS3RyVlFacDJ1UUN3PT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.14/ShotMate_3.13.14_x64-setup.exe"
     }
   }
 }
