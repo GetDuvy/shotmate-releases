@@ -1,11 +1,11 @@
 {
-  "version": "3.13.14",
-  "notes": "WebKit & Chromium Compositing Alignment fixing hero upload button gradient on macOS WebKit so the vibrant blue-purple CTA renders uniformly on macOS and Windows.\nCross-Platform Form Controls normalizing select dropdown appearances and form inputs.",
-  "pub_date": "2026-07-24T10:42:00Z",
+  "version": "3.13.16",
+  "notes": "macOS Thumbnail Preview Fix resolving CSP asset protocol blocking on WebKit.\nFail-Safe Preview Fallback with automated createObjectURL object blob recovery.\nPlus Jakarta Sans typography refresh across desktop client.",
+  "pub_date": "2026-07-24T11:34:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0UvRDFjVEVUOUNmSHpFb0ZHcWM4UCtWMzB4VU1tRkQ3L04xSDdmV21LSlc2NmdDblJic1VjTnBnWmZ2cGJDbmNVQThlTnUvZXE5OGppeU9GQzhkK3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODY0NTYyCWZpbGU6U2hvdE1hdGVfMy4xMy4xNF94NjQtc2V0dXAuZXhlCnp1SGRyN0kyZXBhNGdSZGZCb2pPblRHQURlNWloY1c5dUZiSkdGNnJyRC9uSHdTbGRLWFJWNnhhamFHb1lzUFF0dVFwbEw0ZTFGS3RyVlFacDJ1UUN3PT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.14/ShotMate_3.13.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0F3b0o5UXYrYVVlMmtYQWRBeDJGYlJ4QzBZYlFRd1I2eFlqUlRRME9QSU94cGNCaVA1aHh1dEFieXM2aUVvWElveDBDZVdpempZU1ZyOFBqU2M1K1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODY3NjE4CWZpbGU6U2hvdE1hdGVfMy4xMy4xNl94NjQtc2V0dXAuZXhlCjJ2dXFUQ2NJaVhIdzZCb3lYdE5ibzBzdCtNT0l6ZG1wdy9YS0F1dTdqeTFhdUNtU3RWZ0YyWEt2dGdmNW5QT3Q2MmFLVnozOVhNdlZVODZZWXQybUN3PT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.16/ShotMate_3.13.16_x64-setup.exe"
     }
   }
 }
