@@ -1,11 +1,23 @@
 {
   "version": "3.13.40",
   "notes": "Native App Icon Update Release.\n- Regenerated all Windows (.ico) and macOS (.icns) application icons directly from public/favicon.svg.\n- UI & Performance stability fixes.",
-  "pub_date": "2026-07-24T14:26:00Z",
+  "pub_date": "2026-07-24T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK040QnNselYrY2U1Z1BJTUJWOGN3UTh1UTVRNnc1WFVXcjdhNTlsRlFDb3pTWGRtNmVTemRIMjhwRGJ1L1J3Q3RQWDd1TEhHR05CNEZ5Y0VRcndjUmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTAzMTk1CWZpbGU6U2hvdE1hdGVfMy4xMy40MF94NjQtc2V0dXAuZXhlCkNjendIK25ySk9mcGlYOXU4RlVVTDk4cnZ1MWMyYTJjb0JpRXFZYUN0eGFPd2lUaDdrY1JaVGxCT2ZJU0NQdE10WTl0czFlSWN3R1ByVDB3UnFTU0JnPT0K",
       "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.40/ShotMate_3.13.40_x64-setup.exe"
+    },
+    "darwin-universal": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0piOHZCVEZaT05xVnQyM0w1UTVJNUlmT1RjUjZucWJNSE5PdzRHcExrRENwVkJJd0VubFBYQ0xqK3puQytKSmNiWldHQmpuMGN0MEo2ell6R25PWHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA1Mjc3CWZpbGU6U2hvdE1hdGVfMy4xMy40MF94NjQuZG1nCjJVSG40YzlyMnF0TzdKY1lhYjNVeityU25qeG9wbmdwM3lBV1FzbHl0K3RjbzRWOXVvVGlUZy9YQnJqWitoWFdaR1l3MW9POStPd3lUVFhIeHVRQUNBPT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.40/ShotMate_3.13.40_x64.dmg"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0piOHZCVEZaT05xVnQyM0w1UTVJNUlmT1RjUjZucWJNSE5PdzRHcExrRENwVkJJd0VubFBYQ0xqK3puQytKSmNiWldHQmpuMGN0MEo2ell6R25PWHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA1Mjc3CWZpbGU6U2hvdE1hdGVfMy4xMy40MF94NjQuZG1nCjJVSG40YzlyMnF0TzdKY1lhYjNVeityU25qeG9wbmdwM3lBV1FzbHl0K3RjbzRWOXVvVGlUZy9YQnJqWitoWFdaR1l3MW9POStPd3lUVFhIeHVRQUNBPT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.40/ShotMate_3.13.40_x64.dmg"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0piOHZCVEZaT05xVnQyM0w1UTVJNUlmT1RjUjZucWJNSE5PdzRHcExrRENwVkJJd0VubFBYQ0xqK3puQytKSmNiWldHQmpuMGN0MEo2ell6R25PWHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA1Mjc3CWZpbGU6U2hvdE1hdGVfMy4xMy40MF94NjQuZG1nCjJVSG40YzlyMnF0TzdKY1lhYjNVeityU25qeG9wbmdwM3lBV1FzbHl0K3RjbzRWOXVvVGlUZy9YQnJqWitoWFdaR1l3MW9POStPd3lUVFhIeHVRQUNBPT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.13.40/ShotMate_3.13.40_x64.dmg"
     }
   }
 }
