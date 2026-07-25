@@ -1,19 +1,23 @@
 {
   "version": "3.14.16",
-  "notes": "✨ Halo Creator! Update terbaru ShotMate v3.14.16 telah hadir:\n\n🛠️ **Perbaikan Kendala Upload**: Kendala pengunggahan yang terjadi sebelumnya telah berhasil diatasi secara optimal! Terima kasih banyak khusus untuk **Tim Mangkubumi** atas dukungan & laporannya! 🙏📸\n\n👤 **Tampilan Profil & Saldo Terpadu**: Kartu profil creator dan info saldo kini disatukan menjadi satu kartu modern yang ringkas, lengkap dengan foto profil 3x4 dan info saldo di sisi kanan.\n\n📈 **Grafik Tren Pendapatan & Privasi Saldo**: Grafik bulanan berupa kurva mulus dengan navigasi antar bulan dan tombol privasi mata untuk sembunyikan/tampilkan saldo.\n\n🚀 **Metrik Kecepatan Upload**: Monitor kecepatan pengunggahan per menit (N file/menit) secara real-time.\n\n🧹 **Pembersihan Riwayat Penjualan**: Tampilan riwayat transaksi lebih bersih tanpa baris Rp 0.\n\nSelamat berkarya dan semoga jualan fotomu makin laris manis! 📸🚀",
-  "pub_date": "2026-07-25T15:43:00.000Z",
+  "notes": "✨ Halo Creator! Update terbaru ShotMate v3.14.16 (Universal macOS & Windows) telah hadir:\n\n🛠️ **Perbaikan Kendala Upload**: Kendala pengunggahan yang terjadi sebelumnya telah berhasil diatasi secara optimal! Terima kasih banyak khusus untuk **Tim Mangkubumi** atas dukungan & laporannya! 🙏📸\n\n🍎 **Dukungan Universal macOS**: Paket update macOS kini mendukung penuh arsitektur Universal (Intel & Apple Silicon M1/M2/M3/M4) dengan auto-updater terpadu.\n\n👤 **Tampilan Profil & Saldo Terpadu**: Kartu profil creator dan info saldo kini disatukan menjadi satu kartu modern yang ringkas, lengkap dengan foto profil 3x4 dan info saldo di sisi kanan.\n\n📈 **Grafik Tren Pendapatan & Privasi Saldo**: Grafik bulanan berupa kurva mulus dengan navigasi antar bulan dan tombol privasi mata untuk sembunyikan/tampilkan saldo.\n\n🚀 **Metrik Kecepatan Upload**: Monitor kecepatan pengunggahan per menit (N file/menit) secara real-time.\n\n🧹 **Pembersihan Riwayat Penjualan**: Tampilan riwayat transaksi dan menu popover notifikasi lebih bersih tanpa baris ganda atau Rp 0.\n\nSelamat berkarya dan semoga jualan fotomu makin laris manis! 📸🚀",
+  "pub_date": "2026-07-25T17:03:00.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0h2WjFVVk55TkUwZnJwam84dVYvUWRDL3FJMHF5VlpnVFFwcWtGRnZZaC96VS9QclIzNUxhYURWcFR5bGNLcDQyVDJ0YllnV3UxM21rcjdRSXBEY2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTY4OTg2CWZpbGU6U2hvdE1hdGVfMy4xNC4xNl94NjQtc2V0dXAuZXhlCjJkNHJjcDk0b2NlN1BaelpYcWhzZGZPbnkxK0ZXZDNnU3ZkaDhXejZRNTUyS20xTCs1UEtrOWp0ODdqN1Iya3VOZVBMR0xCYndkc2NMRVJ0WW81b0NBPT0K",
       "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.14.16/ShotMate_3.14.16_x64-setup.exe"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0NaVHFCY0Z5c3NoeWdQLzB0czNQbGgxM3haamtIWEVqMm1TeFVVVGtKb1puTFBoTjFUdW95aXA3MHo1YWRyRm5aMjZ1N1VZdHV1Nkl5VktDUzRkNGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTY5MTIzCWZpbGU6U2hvdE1hdGVfMy4xNC4xNl94NjQuZG1nCklBMzFzZFpVcDhDdDE2NXI5ZEdZekhKYVQwZ3dKZTRDKytrTmxDdzUybEwrbnlrdXo2VDRzdTlxVnk5bU9aTU9yUS82K1BDRzF3VjhkNkVYTG1KRENRPT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.14.16/ShotMate_3.14.16_x64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0ZhMHRKeE5iS25kYjZacDFxTVVwTnNmMUp0bjFjRU8vYjdGdFE5NEN5cEhXVHljSXBiUEhUSXVaV0d6Qjd0eFowNkpGMUF2WFlpQ3JHRFNoYnJneGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcyOTk4CWZpbGU6U2hvdE1hdGVfMy4xNC4xNl91bml2ZXJzYWwuYXBwLnRhci5negpKM0U3SGN5L1dFQ1Z3V0hDUkU1eGd2TFRaemNBVUpUKzBseEJkYzZZQXlYTWxOV2pNTDNIS2ExekczWE1iU2ZQRU5sRlN0KzlZVXpXbHVFM3hFaDBBdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.14.16/ShotMate_3.14.16_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0NaVHFCY0Z5c3NoeWdQLzB0czNQbGgxM3haamtIWEVqMm1TeFVVVGtKb1puTFBoTjFUdW95aXA3MHo1YWRyRm5aMjZ1N1VZdHV1Nkl5VktDUzRkNGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTY5MTIzCWZpbGU6U2hvdE1hdGVfMy4xNC4xNl94NjQuZG1nCklBMzFzZFpVcDhDdDE2NXI5ZEdZekhKYVQwZ3dKZTRDKytrTmxDdzUybEwrbnlrdXo2VDRzdTlxVnk5bU9aTU9yUS82K1BDRzF3VjhkNkVYTG1KRENRPT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.14.16/ShotMate_3.14.16_x64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0ZhMHRKeE5iS25kYjZacDFxTVVwTnNmMUp0bjFjRU8vYjdGdFE5NEN5cEhXVHljSXBiUEhUSXVaV0d6Qjd0eFowNkpGMUF2WFlpQ3JHRFNoYnJneGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcyOTk4CWZpbGU6U2hvdE1hdGVfMy4xNC4xNl91bml2ZXJzYWwuYXBwLnRhci5negpKM0U3SGN5L1dFQ1Z3V0hDUkU1eGd2TFRaemNBVUpUKzBseEJkYzZZQXlYTWxOV2pNTDNIS2ExekczWE1iU2ZQRU5sRlN0KzlZVXpXbHVFM3hFaDBBdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.14.16/ShotMate_3.14.16_universal.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0ZhMHRKeE5iS25kYjZacDFxTVVwTnNmMUp0bjFjRU8vYjdGdFE5NEN5cEhXVHljSXBiUEhUSXVaV0d6Qjd0eFowNkpGMUF2WFlpQ3JHRFNoYnJneGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTcyOTk4CWZpbGU6U2hvdE1hdGVfMy4xNC4xNl91bml2ZXJzYWwuYXBwLnRhci5negpKM0U3SGN5L1dFQ1Z3V0hDUkU1eGd2TFRaemNBVUpUKzBseEJkYzZZQXlYTWxOV2pNTDNIS2ExekczWE1iU2ZQRU5sRlN0KzlZVXpXbHVFM3hFaDBBdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.14.16/ShotMate_3.14.16_universal.app.tar.gz"
     }
   }
 }
