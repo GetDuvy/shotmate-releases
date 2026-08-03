@@ -1,23 +1,23 @@
 {
-  "version": "3.15.3",
-  "notes": "Halo Kreator ShotMate! 🚀\n\nBerikut pembaruan terbaru di v3.15.3:\n• 📷 Dukungan Folder Watcher (Tethering): Fitur pemantau folder foto otomatis secara real-time untuk pengunggahan foto jepretan kamera secara langsung.\n• 🔑 Sinkronisasi Masa Aktif Lisensi: Perpanjangan lisensi kini langsung tersinkronisasi otomatis dengan aplikasi desktop saat dibuka.\n• 📁 Perbaikan Hapus Folder: Penghapusan folder karya di tab Jual kini berjalan lebih cepat dan tanpa kendala.\n• ⚡ Peningkatan Stabilitas: Optimasi performa dan kestabilan aplikasi secara menyeluruh.\n\nTerima kasih telah menggunakan ShotMate! Selamat berkarya! ✨",
-  "pub_date": "2026-07-31T17:29:00.000Z",
+  "version": "3.15.7",
+  "notes": "Halo Sobat ShotMate! 🚀\n\nBerikut pembaruan terbaru di v3.15.7:\n• 🛠️ Perbaikan Utama Upload & Otorisasi: Menangani batas maksimum otorisasi API sehingga proses unggah foto dalam jumlah besar berjalan 100% stabil tanpa gagal.\n• 🔐 Keamanan Enkripsi SHA-256: Pembaruan hashing enkripsi SHA-256 untuk performa dan keamanan data terbaik.\n• 📊 Pelaporan Sistem & Telemetri: Pembaruan pemantauan otomatis agar kendala jaringan langsung terdeteksi dan tertangani dengan cepat.\n\nTerima kasih telah menggunakan ShotMate! Selamat berkarya! ✨",
+  "pub_date": "2026-08-03T15:57:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0gxaXR4aWRvZSt6bjBpc0xrQ09ZT1lCc0JkbjdyRVVjMkhNMHcyZ0hvbkZIdUZmRE1mQjZGTk5NQUpMdmdiaEVEdzdmaWx1dUdxRm01cC9INzFhYndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDkzNzQwCWZpbGU6U2hvdE1hdGVfMy4xNS4zX3g2NC1zZXR1cC5leGUKSUQ3ZHVrd3VsVkNYcmJzSy9GRHJMWHBIR01LYjRmZ0ludEhnZDh0TUlBNGppN0xJUjlSSXozdHdXV04yekwwRXE2elFibUoxRTYrWHJBUk8zTjUwQ0E9PQo=",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.15.3/ShotMate_3.15.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK01vUG80Wmd5aXFITTJ4NU4rK055K0VFajUxeWs4SlE3bG50THhhVHFFcXhEdHNmQ3lnZHZxWGZkMVhPVGVmbDRJWXNXNVRCbVg2MGtEb1A2OXF1MkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzQ3NDUwCWZpbGU6U2hvdE1hdGVfMy4xNS43X3g2NC1zZXR1cC5leGUKeWxCK0t6Q0gxM1g3cndkQzBjU2ZIWXgwUWQyYlowbkoyMmpFNi9WK1hIV1ppZk5aQmxWRUprMkY0QWFuaTZFMDBKbGc4bWxsY2pVR3RZY2w3WXkyREE9PQo=",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.15.7/ShotMate_3.15.7_x64-setup.exe"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0xDNERGQk9OVSt6bGxCczZlekFTMnpsZmpiTnpIc3hjNE1iM1g1RDB1NlJvVDd5ZnpJdHRya0lOZ0NscW1YcXZGTitwY0tMNlNvWHI1Y0RrY1JTR2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDkyOTUzCWZpbGU6U2hvdE1hdGVfMy4xNS4zX3VuaXZlcnNhbC5hcHAudGFyLmd6CkFEbDFxTmlEeVB4THlmYi9ES1FWWG1zME9ITjdmQ28rNHFQYjlwb2dwdEZmOHRYMHFGUWMvWVF4Y1BJcUE1dE1sU0VpMWhDSS9OaDdQTGQ1aWxpVER3PT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.15.3/ShotMate_3.15.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0c0Z0dTYTBOalJ1aFk0K3F3SElhSG9ndTRZdndKNlFla20wUEJCcDZ0MEpzalp5a25xTmVTS0d2ZWJkdktiMVlYQVY5OGxKUUl6VTFRaTlyMWd3QndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzQ2ODIzCWZpbGU6U2hvdE1hdGVfMy4xNS43X3VuaXZlcnNhbC5hcHAudGFyLmd6CnF3dmhNU3JpZWpSOEVWTFNFTWRyZC9MdnUzVE5mMnZpNFdoQlA2TXBZdFl0Z0Y2ekxORlprVWlONnA3Y1BhL2duNFNUU3lVZllIRVlaYjAyUHdTbURBPT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.15.7/ShotMate_3.15.7_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0xDNERGQk9OVSt6bGxCczZlekFTMnpsZmpiTnpIc3hjNE1iM1g1RDB1NlJvVDd5ZnpJdHRya0lOZ0NscW1YcXZGTitwY0tMNlNvWHI1Y0RrY1JTR2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDkyOTUzCWZpbGU6U2hvdE1hdGVfMy4xNS4zX3VuaXZlcnNhbC5hcHAudGFyLmd6CkFEbDFxTmlEeVB4THlmYi9ES1FWWG1zME9ITjdmQ28rNHFQYjlwb2dwdEZmOHRYMHFGUWMvWVF4Y1BJcUE1dE1sU0VpMWhDSS9OaDdQTGQ1aWxpVER3PT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.15.3/ShotMate_3.15.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0c0Z0dTYTBOalJ1aFk0K3F3SElhSG9ndTRZdndKNlFla20wUEJCcDZ0MEpzalp5a25xTmVTS0d2ZWJkdktiMVlYQVY5OGxKUUl6VTFRaTlyMWd3QndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzQ2ODIzCWZpbGU6U2hvdE1hdGVfMy4xNS43X3VuaXZlcnNhbC5hcHAudGFyLmd6CnF3dmhNU3JpZWpSOEVWTFNFTWRyZC9MdnUzVE5mMnZpNFdoQlA2TXBZdFl0Z0Y2ekxORlprVWlONnA3Y1BhL2duNFNUU3lVZllIRVlaYjAyUHdTbURBPT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.15.7/ShotMate_3.15.7_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0xDNERGQk9OVSt6bGxCczZlekFTMnpsZmpiTnpIc3hjNE1iM1g1RDB1NlJvVDd5ZnpJdHRya0lOZ0NscW1YcXZGTitwY0tMNlNvWHI1Y0RrY1JTR2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDkyOTUzCWZpbGU6U2hvdE1hdGVfMy4xNS4zX3VuaXZlcnNhbC5hcHAudGFyLmd6CkFEbDFxTmlEeVB4THlmYi9ES1FWWG1zME9ITjdmQ28rNHFQYjlwb2dwdEZmOHRYMHFGUWMvWVF4Y1BJcUE1dE1sU0VpMWhDSS9OaDdQTGQ1aWxpVER3PT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.15.3/ShotMate_3.15.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0c0Z0dTYTBOalJ1aFk0K3F3SElhSG9ndTRZdndKNlFla20wUEJCcDZ0MEpzalp5a25xTmVTS0d2ZWJkdktiMVlYQVY5OGxKUUl6VTFRaTlyMWd3QndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzQ2ODIzCWZpbGU6U2hvdE1hdGVfMy4xNS43X3VuaXZlcnNhbC5hcHAudGFyLmd6CnF3dmhNU3JpZWpSOEVWTFNFTWRyZC9MdnUzVE5mMnZpNFdoQlA2TXBZdFl0Z0Y2ekxORlprVWlONnA3Y1BhL2duNFNUU3lVZllIRVlaYjAyUHdTbURBPT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.15.7/ShotMate_3.15.7_universal.app.tar.gz"
     }
   }
 }
