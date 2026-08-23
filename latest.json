@@ -1,23 +1,23 @@
 {
-  "version": "3.16.24",
-  "notes": "Halo Sobat ShotMate! 👋 Terima kasih atas dukungan dan feedback yang diberikan. Pada versi 3.16.24 ini, kami menghadirkan pembaruan penting untuk stabilitas aplikasi:\n\n🚀 PEMBARUAN & PENYEMPURNAAN:\n• 🔑 Stabilitas Lisensi Perangkat Windows: Perbaikan pengenalan identitas perangkat keras (Machine ID) permanen agar lisensi tetap aktif dan tidak meminta aktivasi ulang setelah komputer di-restart.\n• 🛡️ Kompatibilitas Multi-Versi: Peningkatan migrasi otomatis lisensi versi terdahulu secara mulus tanpa mengganggu status aktivasi pengguna.\n• ⚡ Optimalisasi Kinerja & Keandalan: Penyempurnaan performa aplikasi saat startup dan pengecekan lisensi latar belakang.\n\nSelamat berkarya dan semoga produktivitas fotografi kamu makin lancar bersama ShotMate! ✨",
-  "pub_date": "2026-08-22T09:12:00Z",
+  "version": "3.16.30",
+  "notes": "Halo Sobat ShotMate! 👋 Terima kasih atas dukungan dan feedback luar biasa dari teman-teman fotografer. Pada versi 3.16.30 ini, kami menghadirkan pembaruan penting untuk stabilitas lisensi dan performa aplikasi:\n\n🚀 PEMBARUAN & PENYEMPURNAAN:\n• 🔑 Stabilitas Lisensi Multi-Perangkat: Bebas aktivasi ulang pada Windows dan macOS Apple Silicon (M1/M2/M3/M4). Mendukung penggunaan 2 perangkat sekaligus (1 PC + 1 Laptop).\n• 🛡️ Self-Healing Lisensi: Aplikasi otomatis menyinkronkan status lisensi saat dibuka tanpa mengganggu aktivitas kamu.\n• 🎯 Tombol Kunci Tersimpan: Tombol 'Gunakan Kunci Ini' dan 'Cek & Aktifkan' memudahkan aktivasi ulang kunci lisensi sebelumnya dalam 1 klik.\n• ⚡ Performa Antarmuka Super Ringan: Eliminasi animasi blur berat menjadikan navigasi halaman login dan aktivasi super lancar serta hemat baterai di semua laptop.\n\nSelamat berkarya dan semoga produktivitas fotografi kamu makin lancar bersama ShotMate! 📸✨",
+  "pub_date": "2026-08-23T10:14:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK1AvR1RnVFpKTGIrNFk2a0cvSi9qSDhYU2kyOWVaSXgyOFYxajVRdWlkUDNDMXpkZHdOS2k0S05zczdLUzdoeDBxQ3ZUQ3RXOGJOVVRSVks4WWdWSFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mzg5ODkwCWZpbGU6U2hvdE1hdGVfMy4xNi4yNF94NjQtc2V0dXAuZXhlCkxUdU5kdXlXS0ViSEtBZzRyaUtBZWhQdE5QWWZMWkVodTczQkFkQVNDRk51bkUxYVkwTmJNRzV2Ky9CR1hPa2JQdjlQQU1HcjlhblJSTFVFVWlPWUJ3PT0K",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.16.24/ShotMate_3.16.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0xDMUtTZGp1dEJNRUxpNzBnMHRHRTF6NjVpWVpoeWRTSHYwemJra3Nzb25HZVg1UFA4aFpKV0NFdjFsVkdlSTFPeG9FazBnRmZTVmJsRnJaSXhmK2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDgwMDM4CWZpbGU6U2hvdE1hdGVfMy4xNi4zMF94NjQtc2V0dXAuZXhlCnRvWE5qeEd3dlJsWFh6TWNKK1NpNjZPdXVBTmJ3ODJFNWhiT0pTYXRWSnRFV1B6cWRSSU0ySWl6NFZxZEI3cHVwbStROUJJRXI0R0FnLzZQUDVIK0RnPT0K",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.16.30/ShotMate_3.16.30_x64-setup.exe"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0tyelAyNC8rZEw3U2FqNVk4cjBxTjFUcWFkNkVDOHRmcWRGbWVFakJBWmpEa3JIaVRLcEE2S2hkRHNuL3RjOWpOa29WNkpEdkpodHVpa2JEbThmWUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mzg4NjAwCWZpbGU6U2hvdE1hdGVfMy4xNi4yNF91bml2ZXJzYWwuYXBwLnRhci5negptcjY5K1N0MUZWR3ArYi9NdG5mcDVMM3JCT0NsazNNYnRUN05EMTlCaDUxTTdmZkZLM1dpWEJnY0NQUE1vWEt5YmNxODY1akZIR3lqZ05xUURqQWZBQT09Cg==",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.16.24/ShotMate_3.16.24_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0N0alphSlFweThJTUtOdEY5THh1Mkphc1RhNUdORGppOGhCZ3V4d0xoNzFpQ1ZGSU1zUTBXbzVwb3oydm9aODdjUDBMdHdDSFVIeG45L1lPa3BHMHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDc5NTMzCWZpbGU6U2hvdE1hdGVfMy4xNi4zMF91bml2ZXJzYWwuYXBwLnRhci5negpoSG1OTUxvQ2xYWkpMSFJlNzh3cjc0MCthRU1qMG10aVZiTnlMaGtpNkhZUHRmeFhyQTlyT05YWVNKakIzYjZFeGl2Qk5ZU2M3Mzdwb0ZoZm1sL2RBdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.16.30/ShotMate_3.16.30_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0tyelAyNC8rZEw3U2FqNVk4cjBxTjFUcWFkNkVDOHRmcWRGbWVFakJBWmpEa3JIaVRLcEE2S2hkRHNuL3RjOWpOa29WNkpEdkpodHVpa2JEbThmWUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mzg4NjAwCWZpbGU6U2hvdE1hdGVfMy4xNi4yNF91bml2ZXJzYWwuYXBwLnRhci5negptcjY5K1N0MUZWR3ArYi9NdG5mcDVMM3JCT0NsazNNYnRUN05EMTlCaDUxTTdmZkZLM1dpWEJnY0NQUE1vWEt5YmNxODY1akZIR3lqZ05xUURqQWZBQT09Cg==",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.16.24/ShotMate_3.16.24_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0N0alphSlFweThJTUtOdEY5THh1Mkphc1RhNUdORGppOGhCZ3V4d0xoNzFpQ1ZGSU1zUTBXbzVwb3oydm9aODdjUDBMdHdDSFVIeG45L1lPa3BHMHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDc5NTMzCWZpbGU6U2hvdE1hdGVfMy4xNi4zMF91bml2ZXJzYWwuYXBwLnRhci5negpoSG1OTUxvQ2xYWkpMSFJlNzh3cjc0MCthRU1qMG10aVZiTnlMaGtpNkhZUHRmeFhyQTlyT05YWVNKakIzYjZFeGl2Qk5ZU2M3Mzdwb0ZoZm1sL2RBdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.16.30/ShotMate_3.16.30_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0tyelAyNC8rZEw3U2FqNVk4cjBxTjFUcWFkNkVDOHRmcWRGbWVFakJBWmpEa3JIaVRLcEE2S2hkRHNuL3RjOWpOa29WNkpEdkpodHVpa2JEbThmWUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mzg4NjAwCWZpbGU6U2hvdE1hdGVfMy4xNi4yNF91bml2ZXJzYWwuYXBwLnRhci5negptcjY5K1N0MUZWR3ArYi9NdG5mcDVMM3JCT0NsazNNYnRUN05EMTlCaDUxTTdmZkZLM1dpWEJnY0NQUE1vWEt5YmNxODY1akZIR3lqZ05xUURqQWZBQT09Cg==",
-      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.16.24/ShotMate_3.16.24_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0N0alphSlFweThJTUtOdEY5THh1Mkphc1RhNUdORGppOGhCZ3V4d0xoNzFpQ1ZGSU1zUTBXbzVwb3oydm9aODdjUDBMdHdDSFVIeG45L1lPa3BHMHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDc5NTMzCWZpbGU6U2hvdE1hdGVfMy4xNi4zMF91bml2ZXJzYWwuYXBwLnRhci5negpoSG1OTUxvQ2xYWkpMSFJlNzh3cjc0MCthRU1qMG10aVZiTnlMaGtpNkhZUHRmeFhyQTlyT05YWVNKakIzYjZFeGl2Qk5ZU2M3Mzdwb0ZoZm1sL2RBdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.16.30/ShotMate_3.16.30_universal.app.tar.gz"
     }
   }
 }
