@@ -1,11 +1,23 @@
 {
   "version": "3.17.0-beta.6",
   "notes": "Halo Sobat Kreator FotoYu! 👋 Pembaruan ShotMate v3.17.0-beta.6 siap digunakan dengan berbagai peningkatan:\n\n🚀 FITUR BARU:\n• Batch Hi-Res Resend: Kirim ulang file resolusi tinggi secara massal dengan pencocokan otomatis, peninjauan side-by-side zoom & pan, serta dukungan video dan roll rollover (9999).\n• Face Radar CRM (Eksperimental): Pengenalan wajah otomatis untuk manajemen database pelanggan. Catatan: fitur ini masih dalam tahap eksperimental (belum stabil) dan terus disempurnakan.\n• Kontrol Jendela Adaptif & Navigasi Ringkas: Tampilan header yang lebih ramping dan tombol jendela yang menyesuaikan otomatis saat window diperlebar.\n\n⚡ PENINGKATAN & OPTIMASI:\n• Pengaturan Lebih Rapi & Bersih: Language switcher dipindahkan ke Pengaturan dengan tata letak opsi yang ditata ulang agar tidak bertumpuk dan mudah diakses.\n• macOS Auto-Relocation Helper: Panduan relokasi otomatis saat aplikasi dijalankan di luar folder Applications di macOS untuk stabilitas optimal.\n• Optimasi Pencocokan Foto & Video: Peningkatan kecepatan pemindaian dan akurasi perbandingan file.\n\n🛠️ PERBAIKAN BUG & STABILITAS:\n• Penanganan Rollover Nomor Kamera: Perbaikan logika pencocokan file saat penomoran kamera mencapai batas 9999 dan berulang kembali.\n• Perbaikan bug dan optimalisasi stabilitas antarmuka.\n\nTerima kasih telah terus berkarya bersama FotoYu & ShotMate! ✨",
-  "pub_date": "2026-09-04T22:27:00Z",
+  "pub_date": "2026-09-04T22:40:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0pLQnJaNWE4OUlCS2haNnF2TmRZekdpYTNnZGJ3UEIvdmh1d2dIZXpnaytnb3lPT3BtUjVFRXFLTVVzMVZSeWtRY2NiT0hBK01zNzZxS2xmdjdNN3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTYwODA0CWZpbGU6U2hvdE1hdGVfMy4xNy4wLWJldGEuNl94NjQtc2V0dXAuZXhlCnlDUFdlVnd2QlU0R3B6WWR0blBod1RUQUNWVGZSSk1iMzBKVFdIT0ZGdHEybWFxVk1XcnpxOHpKdktxcWxQUmtjSTk0ZTJqb2JRTVFkZ1E0R1d6cUJnPT0K",
       "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.17.0-beta.6/ShotMate_3.17.0-beta.6_x64-setup.exe"
+    },
+    "darwin-universal": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0FjYXRZbWVzM3BvU1JzZnBsajFSK25HRXg5M0NmYTl1M1NXVytObEI1SStyRm9WS0xvQnJOSGVBQitIQ0xCSHF3YWdrWFhYTjhaTWw0RDJsZCtGb0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTUxNjY0CWZpbGU6U2hvdE1hdGVfMy4xNy4wLWJldGEuNl91bml2ZXJzYWwuYXBwLnRhci5negpIVnRqK3RNK1NYako2ZlJpVmRDcWE1K2Z1a001UUsrUFhyRXE1alYxNmtXdDFPODJ5Sy9NVkRmNmRSRTNPVy8wMnlKbjkzYnI5RXQvcFFySUhIcjVDdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.17.0-beta.6/ShotMate_3.17.0-beta.6_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0FjYXRZbWVzM3BvU1JzZnBsajFSK25HRXg5M0NmYTl1M1NXVytObEI1SStyRm9WS0xvQnJOSGVBQitIQ0xCSHF3YWdrWFhYTjhaTWw0RDJsZCtGb0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTUxNjY0CWZpbGU6U2hvdE1hdGVfMy4xNy4wLWJldGEuNl91bml2ZXJzYWwuYXBwLnRhci5negpIVnRqK3RNK1NYako2ZlJpVmRDcWE1K2Z1a001UUsrUFhyRXE1alYxNmtXdDFPODJ5Sy9NVkRmNmRSRTNPVy8wMnlKbjkzYnI5RXQvcFFySUhIcjVDdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.17.0-beta.6/ShotMate_3.17.0-beta.6_universal.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNm9sUEpndEduK0FjYXRZbWVzM3BvU1JzZnBsajFSK25HRXg5M0NmYTl1M1NXVytObEI1SStyRm9WS0xvQnJOSGVBQitIQ0xCSHF3YWdrWFhYTjhaTWw0RDJsZCtGb0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTUxNjY0CWZpbGU6U2hvdE1hdGVfMy4xNy4wLWJldGEuNl91bml2ZXJzYWwuYXBwLnRhci5negpIVnRqK3RNK1NYako2ZlJpVmRDcWE1K2Z1a001UUsrUFhyRXE1alYxNmtXdDFPODJ5Sy9NVkRmNmRSRTNPVy8wMnlKbjkzYnI5RXQvcFFySUhIcjVDdz09Cg==",
+      "url": "https://github.com/GetDuvy/shotmate-releases/releases/download/v3.17.0-beta.6/ShotMate_3.17.0-beta.6_universal.app.tar.gz"
     }
   }
 }
