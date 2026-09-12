@@ -1,0 +1,19 @@
+Halo Sobat Kreator FotoYu! 👋 Pembaruan ShotMate v3.17.0 siap digunakan dengan berbagai peningkatan:
+
+🚀 FITUR BARU:
+• Daftar Foto Terlaris (Hot Photos): Pantau foto berpeminat tinggi dari konfirmasi klaim wajah pembeli dan transaksi pembelian riil, lengkap dengan filter jangka waktu (1 Minggu, 1 Bulan, Semua) serta pengurutan presisi tinggi.
+• Pengaturan Unggah Cepat (Upload Media Settings): Kartu kontrol media terintegrasi langsung di tab Unggah untuk mempermudah pemilihan kualitas gambar, metode pemotongan video, dan status watermark.
+• Pencari Berkas Terjual (Sold File Finder): Pindai kartu memori dan harddisk otomatis untuk menemukan foto terjual dan salin langsung ke folder tujuan dalam satu klik.
+• Multi-Akun & Beralih Instan: Kelola hingga 2 akun kreator FotoYu sekaligus dengan perpindahan kilat (<50ms) dan preset watermark terpisah.
+
+⚡ PENINGKATAN & OPTIMASI:
+• Akselerasi Video Native Turbo: Ekstraksi frame pratinjau video hingga 10–15× lebih cepat di Windows dan akselerasi hardware Apple Silicon di Mac.
+• RoboYu AI Face Booster: Peningkatan akurasi pengenalan wajah dan normalisasi pencahayaan otomatis pada foto.
+• Paket Instalasi Windows Mandiri: Bundel Visual C++ Runtime dan WebView2 bawaan untuk keandalan instalasi tanpa ketergantungan komponen luar.
+
+🛠️ PERBAIKAN BUG & STABILITAS:
+• Presisi Zona Waktu: Memperbaiki pencocokan foto terjual untuk pemotretan dini hari (sebelum 07:00 WIB).
+• Kelancaran Unggah Video: Memperbaiki kendala verifikasi ukuran pratinjau video dan konfirmasi berkas cepat (auto-flush).
+• Perbaikan bug dan optimalisasi stabilitas antarmuka.
+
+Terima kasih telah terus berkarya bersama FotoYu & ShotMate! ✨
