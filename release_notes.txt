@@ -1,21 +1,20 @@
 Halo Sobat Kreator FotoYu! 👋
-Pembaruan ShotMate v3.20.1 siap digunakan dengan berbagai peningkatan:
+Pembaruan ShotMate v3.23.0 siap digunakan dengan berbagai peningkatan alur kerja dan stabilitas:
 
 🚀 FITUR BARU:
-• Salin Berkas Gagal ke Folder: Kini Anda dapat menyalin seluruh foto/video yang gagal diunggah langsung ke folder pilihan untuk pemilahan berkas dengan mudah.
-• Ketajaman Landmark Pasca-LUT: Foto kini tetap tajam alami saat menggunakan preset warna, menjaga kontur wajah dan nomor dada (BIB) tegas dan presisi untuk AI RoboYu.
-• Indikator Kesehatan Server Real-Time: Pantau latensi konfirmasi dan kecepatan transfer secara live dengan notifikasi otomatis saat server FotoYu sedang antre.
+• Alokasi Gelombang Kamera (Ganjil-Genap): Pembagian gelombang bertahap kini otomatis mengikuti nomor urut foto kamera (ganjil ke Gelombang 1, genap ke Gelombang 2). Menghapus foto tidak akan pernah menggeser jadwal gelombang foto lainnya.
+• Panel Status & Pemulihan Unggahan: Pantau progres antrean unggah dan kelola berkas bermasalah langsung dari tab mana pun dengan tombol pemulihan dan lanjutan gelombang yang presisi.
+• Paginasi Cerdas Riwayat Penjualan: Penjelajahan riwayat penjualan tetap mulus dan bebas hambatan meski memuat ribuan foto.
+• Tautan Cepat Perpanjang Lisensi: Tombol perpanjangan resmi di layar aktivasi langsung menghubungkan akun tanpa perlu mengetik ulang kode lisensi.
 
 ⚡ PENINGKATAN & OPTIMASI:
-• Pacing Konkurensi Dinamis: Sistem otomatis menyesuaikan beban antrean konfirmasi saat server FotoYu lambat atau padat guna mencegah timeout dan penolakan koneksi.
-• Kinerja Bebas Lag di macOS & Laptop: Penanganan memori WebKit dan penyimpanan riwayat batch kini dioptimasi dengan debounce cerdas—aplikasi tetap lancar dan tidak lagi mengalami freeze/lag saat memproses ribuan foto.
-• Visual Jernih Bebas Moiré: Kualitas kompresi default ditingkatkan ke 85% dengan Chroma 4:2:2 dan peniadaan kompresi ganda (single-pass encoding).
-• Toleransi Jaringan 120 Detik: Waktu tunggu soket diperpanjang untuk mencegah putus koneksi saat antrean unggahan besar.
+• Auto-Retry Gangguan Jaringan: Unggahan otomatis mencoba ulang saat soket jaringan terputus (os error 10054), mencegah antrean gagal mendadak di tengah jalan.
+• Unggah Foto Adaptif: Penyesuaian konkurensi upload cerdas menjaga stabilitas koneksi jaringan saat mengirim foto ke S3.
+• Responsivitas Tampilan: Optimalisasi ukuran target klik dan label skala antarmuka pas di berbagai ukuran layar monitor dan laptop.
 
 🛠️ PERBAIKAN BUG & STABILITAS:
-• Pemulihan Gelombang Unggahan (Wave): Kartu wave tidak lagi macet di status "Mengunggah..." saat aplikasi ditutup atau dijeda—tombol aksi otomatis pulih menjadi "Lanjutkan Wave".
-• Rekonsiliasi Otomatis Duplikat Foto: Foto yang sudah terdaftar di server pasca-timeout/retry otomatis ditandai selesai tanpa galat berulang.
-• Penyempurnaan Circuit Breaker: Unggahan tidak lagi dijeda sepihak saat respon server melambat.
+• Isolasi Gelombang Bertahap: Melanjutkan berkas gagal kini strictly hanya memproses gelombang aktif dan tidak lagi mencampurkan gelombang berikutnya.
+• Keandalan Geser Jendela: Area pegangan top bar kini jauh lebih responsif dan mudah digeser di Windows.
 • Perbaikan bug dan optimalisasi stabilitas antarmuka.
 
 Terima kasih telah terus berkarya bersama FotoYu & ShotMate! ✨
